@@ -1,28 +1,17 @@
 {
-    "name": "JGreenApple",
-    "identifier": "com.jgreenapple",
-    "subtitle": "jgreen apple",
-    "iconURL": "https://github.com/jgrenapple/Jgreen_apple/raw/refs/heads/main/IMG_1856.jpeg",
-    "sourceURL": "",
-    "tintColor": "FFC300",
-    },
-    "apps": [    
+  "version": "1.0",
+  "sourceName": "JgreenApple",
+  "sourceImage": "https://github.com/jgrenapple/Jgreen_apple/raw/refs/heads/main/IMG_1856.jpeg",
+  "sourceDescription": "JgreenApple",
+  "appRepositories": [    
 {
-      "name": "همراه بانک مشترک ایران ونزوئلا | ivbb",
-      "version": "2.16.28",
-      "icon": "https://app.appleapps.ir/storage/2023/08/at-16918577341058-100x100.png",
-      "down": "https://dl3.apptrackr.ir/ios/2025/dara2.16.28.ipa",
-      "dev": "GreenApple",
-      "category": "برنامه های ایرانی",
-      "description": "همراه بانک-بانک مشترک ایران-ونزوئلا\nامکان انتقال وجه\nمدیریت چک\nمدیریت تسهیلات\nافتتاح حساب غیر حضوری\n    ",
-      "bundleID": "com.tosan.dara.dev.iranvenezuela",
-      "screenshots": [
-"https://app.appleapps.ir/storage/2023/08/at-16918577781708.jpg",
-"https://app.appleapps.ir/storage/2023/08/at-16918577791007.jpg",
-"https://app.appleapps.ir/storage/2023/08/at-16918577801884.jpg",
-"https://app.appleapps.ir/storage/2023/08/at-16918577811139.jpg"
-      ]
-    },
-         }
-    ]
+    "appType": "SELF_SIGN",
+    "versionDate": "10/25/2025T00:45:36+0330",
+    "appName": "همراه بانک مشترک ایران ونزوئلا | ivbb",
+    "appVersion": "2.16.28",
+    "appDescription": "همراه بانک-بانک مشترک ایران-ونزوئلا\nامکان انتقال وجه\nمدیریت چک\nمدیریت تسهیلات\nافتتاح حساب غیر حضوری\n    ",
+    "appImage": "https://app.appleapps.ir/storage/2023/08/at-16918577341058-100x100.png",
+    "appPackage": "https://dl3.apptrackr.ir/ios/2025/dara2.16.28.ipa"
+}
+  ]
 }
