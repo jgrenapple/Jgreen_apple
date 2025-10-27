@@ -18,6 +18,21 @@
     "size": 49915297,
     "type": 1
 },
+{
+    "name": "همراه بام ملی",
+    "bundleIdentifier": "ir.co.sadad.HamrahBaam",
+    "developerName": "GreenApple",
+    "version": "4.6.5",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 4.6.5 برنامه همراه بام ملی در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/HamrahBaam4.6.5.ipa",
+    "localizedDescription": "نسخه 4.6.5 برنامه همراه بام ملی در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2020/05/at-17011157511255-100x100.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 96404026,
+    "type": 1
+},
     {
       "name": "بلوبانک",
       "version": "3.6.0",
