@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "توبانک | TOBANK",
+    "bundleIdentifier": "com.ipaam.tobank",
+    "developerName": "GreenApple",
+    "version": "3.9.4",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 3.9.4 برنامه توبانک | TOBANK در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/TOBANK_v3.9.4.ipa",
+    "localizedDescription": "نسخه 3.9.4 برنامه توبانک | TOBANK در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2022/03/at-17053533161709-100x100.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 168558143,
+    "type": 1
+},
+{
         "name": "همراه بانک صادرات",
         "bundleIdentifier": "com.isc.saderatBankb",
         "developerName": "Saderat",
