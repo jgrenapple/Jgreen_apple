@@ -49,6 +49,21 @@
     "type": 1
 },
 {
+    "name": "Playdead's INSIDE",
+    "bundleIdentifier": "com.playdeadgames.inside.ios",
+    "developerName": "GreenApple",
+    "version": "1.1.12",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 1.1.12 برنامه Playdead's INSIDE در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/INSIDEx1.1.12.ipa",
+    "localizedDescription": "نسخه 1.1.12 برنامه Playdead's INSIDE در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2025/04/at-17447117031502-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": "",
+    "type": 1
+},
+{
     "name": "توبانک | TOBANK",
     "bundleIdentifier": "com.ipaam.tobank",
     "developerName": "GreenApple",
