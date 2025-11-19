@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "Longman Dictionary of English++",
+    "bundleIdentifier": "com.pearson.ldoceplus",
+    "developerName": "GreenApple",
+    "version": "7.3.4",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 7.3.4 برنامه Longman Dictionary of English++ در GreenApple",
+    "downloadURL": "https://s5.uupload.ir/files/sibstar/cdn/app/LDOCE-8D121EFE-8AF7-4256-B652-893B490EC778.ipa",
+    "localizedDescription": "نسخه 7.3.4 برنامه Longman Dictionary of English++ در Greenapple",
+    "iconURL": "https://cdn.appleapps.ir/2020/05/at-15896289121068-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 505932232,
+    "type": 1
+},
+{
     "name": "Reelsapp++ | نسخه آنلاک شده",
     "bundleIdentifier": "com.nextgen.reelsapp",
     "developerName": "GreenApple",
