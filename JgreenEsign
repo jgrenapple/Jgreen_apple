@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "FaceLab++ | نسخه آنلاک شده",
+    "bundleIdentifier": "com.lyrebirdstudio.facelab",
+    "developerName": "GreenApple",
+    "version": "4.44.0",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 4.44.0 برنامه FaceLab++ | نسخه آنلاک شده در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/FaceLab4.44.0.ipa",
+    "localizedDescription": "نسخه 4.44.0 برنامه FaceLab++ | نسخه آنلاک شده در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2025/05/at-17476454831266-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": "",
+    "type": 1
+},
+{
     "name": "Longman Dictionary of English++",
     "bundleIdentifier": "com.pearson.ldoceplus",
     "developerName": "GreenApple",
