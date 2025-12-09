@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "Instagram BH",
+    "bundleIdentifier": "com.burbn.instagrambh",
+    "developerName": "GreenApple",
+    "version": "408.1.0",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 408.1.0 برنامه Instagram BH در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/InstaBH408.1.0.ipa",
+    "localizedDescription": "نسخه 408.1.0 برنامه Instagram BH در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2023/07/at-17648350641848-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 418438853,
+    "type": 1
+},
+{
     "name": "Speedtest ++ |‌ نسخه پریمیوم بدون تبلیغ تست سرعت اینترنت",
     "bundleIdentifier": "com.ookla.speedtest",
     "developerName": "GreenApple",
