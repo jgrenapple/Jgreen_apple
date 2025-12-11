@@ -19,18 +19,18 @@
     "type": 1
 },
 {
-    "name": "Instagram BH",
-    "bundleIdentifier": "com.burbn.instagrambh",
+    "name": "Coconote - AI Note Taker++ آنلاک شده",
+    "bundleIdentifier": "com.bbauman.Scripty",
     "developerName": "GreenApple",
-    "version": "408.1.0",
+    "version": "2.29",
     "versionDate": "1404-08-05",
-    "versionDescription": "نسخه 408.1.0 برنامه Instagram BH در GreenApple",
-    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/InstaBH408.1.0.ipa",
-    "localizedDescription": "نسخه 408.1.0 برنامه Instagram BH در Greenapple",
-    "iconURL": "https://app.appleapps.ir/storage/2023/07/at-17648350641848-100x100.jpg",
+    "versionDescription": "نسخه 2.29 برنامه Coconote - AI Note Taker++ آنلاک شده در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Coconote2.29.ipa",
+    "localizedDescription": "نسخه 2.29 برنامه Coconote - AI Note Taker++ آنلاک شده در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2025/06/at-17490289471042-100x100.jpg",
     "tintColor": "018084",
     "isLanZouCloud": 0,
-    "size": 418438853,
+    "size": 49008725,
     "type": 1
 },
 {
