@@ -109,6 +109,21 @@
     "type": 1
 },
 {
+    "name": "کوییز آو کینگز | Quiz of Kings",
+    "bundleIdentifier": "com.quizofkings.quizofkings2",
+    "developerName": "GreenApple",
+    "version": "3.1.7424",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 3.1.7424 برنامه کوییز آو کینگز | Quiz of Kings در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/com.quizofkings.quizofkings2-3.1.7424.ipa",
+    "localizedDescription": "نسخه 3.1.7424 برنامه کوییز آو کینگز | Quiz of Kings در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16937780151284-100x100.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 61365204,
+    "type": 1
+},
+{
     "name": "گیم باکس آنلاین | GameBox",
     "bundleIdentifier": "com.deeb.gamebox",
     "developerName": "GreenApple",
