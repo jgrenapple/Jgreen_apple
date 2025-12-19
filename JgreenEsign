@@ -94,18 +94,18 @@
     "type": 1
 },
 {
-    "name": "منچرز ( منچ آنلاین ) | Mencherz",
+    "name": "منچرز",
     "bundleIdentifier": "com.toofungames.mencherz",
     "developerName": "GreenApple",
-    "version": "3.17.0",
+    "version": "3.18.0",
     "versionDate": "1404-08-05",
-    "versionDescription": "نسخه 3.17.0 برنامه منچرز ( منچ آنلاین ) | Mencherz در GreenApple",
-    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/mencherzv3.17.0.ipa",
-    "localizedDescription": "نسخه 3.17.0 برنامه منچرز ( منچ آنلاین ) | Mencherz در Greenapple",
+    "versionDescription": "نسخه 3.18.0 برنامه منچرز در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/mencherzv3.18.0.ipa",
+    "localizedDescription": "نسخه 3.18.0 برنامه منچرز در Greenapple",
     "iconURL": "https://cdn.appleapps.ir/2020/05/at-15896322621094-100x100.png",
     "tintColor": "018084",
     "isLanZouCloud": 0,
-    "size": 234393833,
+    "size": 237062294,
     "type": 1
 },
 {
