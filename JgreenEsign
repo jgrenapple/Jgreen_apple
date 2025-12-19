@@ -559,20 +559,19 @@
     "size": 49808732,
     "type": 1
 },
-
 {
     "name": "کیوبانک | Qbank",
     "bundleIdentifier": "com.rahand.qbank",
     "developerName": "GreenApple",
-    "version": "7.0.1",
+    "version": "7.1.1",
     "versionDate": "1404-08-05",
-    "versionDescription": "نسخه 7.0.1 برنامه کیوبانک | Qbank در GreenApple",
-    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/qbank7.0.1.ipa",
-    "localizedDescription": "نسخه 7.0.1 برنامه کیوبانک | Qbank در Greenapple",
+    "versionDescription": "نسخه 7.1.1 برنامه کیوبانک | Qbank در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Qbank_v7.1.1.ipa",
+    "localizedDescription": "نسخه 7.1.1 برنامه کیوبانک | Qbank در Greenapple",
     "iconURL": "https://app.appleapps.ir/storage/2023/07/at-16882337221906-100x100.jpg",
     "tintColor": "018084",
     "isLanZouCloud": 0,
-    "size": 97548838,
+    "size": 104230684,
     "type": 1
 },
 {
