@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "پیام رسان روبیکا",
+    "bundleIdentifier": "com.roobika.xstores",
+    "developerName": "GreenApple",
+    "version": "2.7.3",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 2.7.3 برنامه پیام رسان روبیکا در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Rubika_v2.7.3.ipa",
+    "localizedDescription": "نسخه 2.7.3 برنامه پیام رسان روبیکا در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16941271481992-100x100.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 137959064,
+    "type": 1
+},
+{
     "name": "Nobitex | نوبیتکس",
     "bundleIdentifier": "app.nobitex.market",
     "developerName": "GreenApple",
