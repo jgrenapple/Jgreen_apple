@@ -109,6 +109,21 @@
     "type": 1
 },
 {
+    "name": "گیم باکس آنلاین | GameBox",
+    "bundleIdentifier": "com.deeb.gamebox",
+    "developerName": "GreenApple",
+    "version": "1.34.12",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 1.34.12 برنامه گیم باکس آنلاین | GameBox در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/GameBoxv1.34.12.ipa",
+    "localizedDescription": "نسخه 1.34.12 برنامه گیم باکس آنلاین | GameBox در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17168337611959-100x100.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 91583453,
+    "type": 1
+},
+{
     "name": "Inshot ++ | اینشات آنلاک شده",
     "bundleIdentifier": "com.camerasideas.InstaShot",
     "developerName": "GreenApple",
