@@ -78,6 +78,21 @@
     "size": 234393833,
     "type": 1
 },
+{
+    "name": "Inshot ++ | اینشات آنلاک شده",
+    "bundleIdentifier": "com.camerasideas.InstaShot",
+    "developerName": "GreenApple",
+    "version": "1.92.0",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 1.92.0 برنامه Inshot ++ | اینشات آنلاک شده در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/InShot1.92.0.ipa",
+    "localizedDescription": "نسخه 1.92.0 برنامه Inshot ++ | اینشات آنلاک شده در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2025/08/at-17541511891031-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 126652323,
+    "type": 1
+},
 
 {
     "name": "FaceLab++ | نسخه آنلاک شده",
