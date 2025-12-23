@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "پنجره ملی خدمات دولت هوشمند(دولت من)",
+    "bundleIdentifier": "ir.gov.mygov",
+    "developerName": "GreenApple",
+    "version": "2.6.70",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 2.6.70 برنامه پنجره ملی خدمات دولت هوشمند(دولت من) در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/MyGov_v2.6.70.ipa",
+    "localizedDescription": "نسخه 2.6.70 برنامه پنجره ملی خدمات دولت هوشمند(دولت من) در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2023/06/at-16862403911060-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 204435419,
+    "type": 1
+},
+{
     "name": "Ewano | اوانو",
     "bundleIdentifier": "com.ebcom.ewn",
     "developerName": "GreenApple",
