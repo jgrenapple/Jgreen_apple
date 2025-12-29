@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "Procreate",
+    "bundleIdentifier": "au.com.savageinteractive.procreate",
+    "developerName": "GreenApple",
+    "version": "5.4.7.1",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 5.4.7.1 برنامه Procreate در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Procreate_5.4.7x.ipa",
+    "localizedDescription": "نسخه 5.4.7.1 برنامه Procreate در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16952461991140-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 773211561,
+    "type": 1
+},
+{
     "name": "پنجره ملی خدمات دولت هوشمند(دولت من)",
     "bundleIdentifier": "ir.gov.mygov",
     "developerName": "GreenApple",
