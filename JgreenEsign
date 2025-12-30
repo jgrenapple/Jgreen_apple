@@ -49,6 +49,21 @@
     "type": 1
 },
 {
+    "name": "دانلود منیجر چیتا",
+    "bundleIdentifier": "com.mamadshahib.Cheetah",
+    "developerName": "GreenApple",
+    "version": "7.1.0",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 7.1.0 برنامه دانلود منیجر چیتا در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/cheetahv7.1.0.ipa",
+    "localizedDescription": "نسخه 7.1.0 برنامه دانلود منیجر چیتا در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2020/11/at-17668269491395-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 5452335,
+    "type": 1
+},
+{
     "name": "Ewano | اوانو",
     "bundleIdentifier": "com.ebcom.ewn",
     "developerName": "GreenApple",
