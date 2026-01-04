@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "حسابداری شمار | Shomar",
+    "bundleIdentifier": "com.milad.accounting_book",
+    "developerName": "GreenApple",
+    "version": "2.0.70",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 2.0.70 برنامه حسابداری شمار | Shomar در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/shomarv2.0.70.ipa",
+    "localizedDescription": "نسخه 2.0.70 برنامه حسابداری شمار | Shomar در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17484423831808-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 14879202,
+    "type": 1
+},
+{
     "name": "Procreate",
     "bundleIdentifier": "au.com.savageinteractive.procreate",
     "developerName": "GreenApple",
