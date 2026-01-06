@@ -34,6 +34,21 @@
     "type": 1
 },
 {
+    "name": "Halide Mark II++ - Pro Camera | آنلاک شده",
+    "bundleIdentifier": "camera.lux.halide.mkii",
+    "developerName": "GreenApple",
+    "version": "2.5.0.1",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 2.5.0.1 برنامه Halide Mark II++ - Pro Camera | آنلاک شده در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Halide2.5.0.ipa",
+    "localizedDescription": "نسخه 2.5.0.1 برنامه Halide Mark II++ - Pro Camera | آنلاک شده در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17325246531464-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 12865348,
+    "type": 1
+},
+{
     "name": "Procreate",
     "bundleIdentifier": "au.com.savageinteractive.procreate",
     "developerName": "GreenApple",
