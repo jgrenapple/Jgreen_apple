@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "myTuner Radio - Live Stations",
+    "bundleIdentifier": "mobi.digitalminds.itunerfree",
+    "developerName": "GreenApple",
+    "version": "10.0.5",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 10.0.5 برنامه myTuner Radio - Live Stations در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2026/myTuner_Radio_v10.0.5.ipa",
+    "localizedDescription": "نسخه 10.0.5 برنامه myTuner Radio - Live Stations در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17303054491985-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 93171932,
+    "type": 1
+},
+{
     "name": "حسابداری شمار | Shomar",
     "bundleIdentifier": "com.milad.accounting_book",
     "developerName": "GreenApple",
