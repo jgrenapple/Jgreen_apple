@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "Radio Javan ++ | رادیو جوان پریمیوم",
+    "bundleIdentifier": "com.RadioJavan.RJ",
+    "developerName": "GreenApple",
+    "version": "30.6.2.0.1",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 30.6.2.0.1 برنامه Radio Javan ++ | رادیو جوان پریمیوم در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2026/RadioJavan_30.6.2np.ipa",
+    "localizedDescription": "نسخه 30.6.2.0.1 برنامه Radio Javan ++ | رادیو جوان پریمیوم در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17099195011292-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 56312290,
+    "type": 1
+},
+{
     "name": "myTuner Radio - Live Stations",
     "bundleIdentifier": "mobi.digitalminds.itunerfree",
     "developerName": "GreenApple",
