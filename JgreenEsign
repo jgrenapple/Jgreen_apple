@@ -19,6 +19,21 @@
     "type": 1
 },
 {
+    "name": "پیامرسان بله برای آیفون",
+    "bundleIdentifier": "ai.store.bale",
+    "developerName": "GreenApple",
+    "version": "1.0.13",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 1.0.13 برنامه پیامرسان بله برای آیفون در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2026/Bale_v1.0.13.ipa",
+    "localizedDescription": "نسخه 1.0.13 برنامه پیامرسان بله برای آیفون در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2022/11/at-17532113161859-100x100.jpeg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 66942267,
+    "type": 1
+},
+{
     "name": "Radio Javan ++ | رادیو جوان پریمیوم",
     "bundleIdentifier": "com.RadioJavan.RJ",
     "developerName": "GreenApple",
