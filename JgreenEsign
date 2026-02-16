@@ -4,18 +4,21 @@
     "sourceURL": "https://github.com/jgrenapple/Jgreen_apple",
     "apps": [
 {
-    "name": "آبانک | Abank",
+    "name": 
+},
+{
+    "name": "آبانک",
     "bundleIdentifier": "ir.efarda.abankproduction",
     "developerName": "GreenApple",
-    "version": "1.10.0",
+    "version": "1.11.1",
     "versionDate": "1404-08-05",
-    "versionDescription": "نسخه 1.10.0 برنامه آبانک | Abank در GreenApple",
-    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/abank1.10.0.ipa",
-    "localizedDescription": "نسخه 1.10.0 برنامه آبانک | Abank در GreenApple",
+    "versionDescription": "نسخه 1.11.1 برنامه آبانک در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2026/abank1.11.1.ipa",
+    "localizedDescription": "نسخه 1.11.1 برنامه آبانک در Greenapple",
     "iconURL": "https://app.appleapps.ir/storage/2022/05/at-16847851311517-100x100.png",
     "tintColor": "018084",
     "isLanZouCloud": 0,
-    "size": 49915297,
+    "size": 62296548,
     "type": 1
 },
 {
