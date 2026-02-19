@@ -37,6 +37,21 @@
     "type": 1
 },
 {
+    "name": "YouTube YTLite | پیشرفته ترین یوتیوب آیفون",
+    "bundleIdentifier": "com.google.ios.youtubeliteplus",
+    "developerName": "GreenApple",
+    "version": "21.05.3",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 21.05.3 برنامه YouTube YTLite | پیشرفته ترین یوتیوب آیفون در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2026/YTLitep21.05.3.ipa",
+    "localizedDescription": "نسخه 21.05.3 برنامه YouTube YTLite | پیشرفته ترین یوتیوب آیفون در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2020/10/at-17606147551601-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 313970813,
+    "type": 1
+},
+{
     "name": "Radio Javan ++ | رادیو جوان پریمیوم",
     "bundleIdentifier": "com.RadioJavan.RJ",
     "developerName": "GreenApple",
