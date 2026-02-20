@@ -37,6 +37,21 @@
     "type": 1
 },
 {
+    "name": "مدیریت فروشگاه",
+    "bundleIdentifier": "ir.adinapp.supermarket",
+    "developerName": "GreenApple",
+    "version": "1.8.5",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 1.8.5 برنامه مدیریت فروشگاه در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/shopmanger1.8.5.ipa",
+    "localizedDescription": "نسخه 1.8.5 برنامه مدیریت فروشگاه در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2023/07/at-16903569431355-100x100.jpeg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 46216563,
+    "type": 1
+},
+{
     "name": "YouTube YTLite | پیشرفته ترین یوتیوب آیفون",
     "bundleIdentifier": "com.google.ios.youtubeliteplus",
     "developerName": "GreenApple",
