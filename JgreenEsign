@@ -34,6 +34,21 @@
     "type": 1
 },
 {
+    "name": "Gopeed | دانلود منیجر پرسرعت و مدرن",
+    "bundleIdentifier": "com.gopeed.gopeed",
+    "developerName": "GreenApple",
+    "version": "1.9.1",
+    "versionDate": "1404-08-05",
+    "versionDescription": "نسخه 1.9.1 برنامه Gopeed | دانلود منیجر پرسرعت و مدرن در GreenApple",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2026/Gopeed-v1.9.1-ios.ipa",
+    "localizedDescription": "نسخه 1.9.1 برنامه Gopeed | دانلود منیجر پرسرعت و مدرن در Greenapple",
+    "iconURL": "https://app.appleapps.ir/storage/2025/12/at-17663881731988-100x100.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 26853719,
+    "type": 1
+},
+{
     "name": "مدیریت فروشگاه",
     "bundleIdentifier": "ir.adinapp.supermarket",
     "developerName": "GreenApple",
